@@ -1,0 +1,37 @@
+
+.book_info h1
+{  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 105px;
+    margin: left 10px; ;
+}
+
+
+.container {
+    display: flex;
+    align-items: row;
+    justify-content: space-between;
+  }
+  
+.text {
+    padding: 1em;
+}
+
+.text span {
+    font-size: 18px;
+    padding-left: 0px;
+    margin-left: 10px;
+    color: wheat;
+    margin-right: 10px;
+    gap: 20px;
+}
+
+.Formatted br{
+    margin-left: 100px;
+}
+
+.text h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 95px;
+    color: whitesmoke;
+}
+
